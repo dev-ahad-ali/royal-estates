@@ -1,0 +1,101 @@
+[
+    {
+        "id": "1",
+        "estate_title": "Skyview Elegance Penthouse",
+        "segment_name": "Penthouse",
+        "image": "https://i.ibb.co/hmyCT2R/penthouse.jpg",
+        "description": "Perched atop a prestigious skyscraper, this luxurious penthouse offers unparalleled views of the city skyline and beyond. With floor-to-ceiling windows bathing the interior in natural light, every corner of this residence exudes elegance and sophistication. Boasting spacious living areas, high-end finishes, and top-of-the-line appliances, it's an ideal retreat for those accustomed to the finer things in life. The expansive terrace provides a perfect setting for entertaining or simply soaking in the breathtaking vistas. With amenities such as a private elevator, concierge service, and exclusive access to the building's amenities, this penthouse epitomizes urban luxury living.",
+        "price": 5000000,
+        "status": "sale",
+        "area": 4000,
+        "location": "Downtown Metropolis",
+        "facilities": [
+            "expansive terrace",
+            "private elevator",
+            "concierge service"
+        ]
+    },
+    {
+        "id": "2",
+        "estate_title": "Grandeur Manor Estate",
+        "segment_name": "Mansion",
+        "image": "https://i.ibb.co/cNNghmX/mansion.jpg",
+        "description": "Embrace luxury living at its finest in this grand mansion estate, where opulence and elegance converge to create a truly exceptional residence. Situated on meticulously landscaped grounds, this palatial home exudes sophistication and style at every turn. From the grand foyer with its sweeping staircase to the expansive living areas adorned with marble floors and crystal chandeliers, no detail has been overlooked in the design of this masterpiece. The estate boasts multiple bedrooms, each with its own ensuite bathroom, as well as a wealth of amenities including a home theater, wine cellar, and outdoor pool with pool house. Whether you're hosting extravagant soirées or enjoying quiet evenings with family, this mansion offers the epitome of luxury living.",
+        "price": 25000000,
+        "status": "sale",
+        "area": 15000,
+        "location": "Elegant Enclave, Florida",
+        "facilities": [
+            "home theater",
+            "wine cellar",
+            "outdoor pool",
+            "pool house"
+        ]
+    },
+    {
+        "id": "3",
+        "estate_title": "Riviera Bliss Villa",
+        "segment_name": "Villa",
+        "image": "https://i.ibb.co/QdtwQnX/vila.jpg",
+        "description": "Perched atop a cliff overlooking the shimmering waters of the ocean, this stunning villa offers unparalleled luxury and breathtaking views. The contemporary design seamlessly blends indoor and outdoor living, with expansive glass walls that open onto multiple terraces and infinity-edge pool. Inside, the spacious interiors are appointed with the finest finishes and furnishings, including a gourmet kitchen, sumptuous bedrooms, and state-of-the-art entertainment systems. Whether you're hosting lavish gatherings in the open-concept living areas or enjoying quiet moments of relaxation in the private garden, every aspect of this villa has been meticulously crafted for discerning tastes. With its coveted location and array of amenities, this is coastal living at its absolute finest.",
+        "price": 12000000,
+        "status": "rent",
+        "area": 7000,
+        "location": "Cliffside Paradise, California",
+        "facilities": [
+            "infinity-edge pool",
+            "private garden",
+            "gourmet kitchen"
+        ]
+    },
+    {
+        "id": "4",
+        "estate_title": "Azure Serenity Beachview",
+        "segment_name": "Beachfront Property",
+        "image": "https://i.ibb.co/9vWWpDR/beach-Front.jpg",
+        "description": "Nestled along the pristine shores of a secluded beach, this exquisite villa offers a perfect blend of luxury and tranquility. Surrounded by lush tropical gardens and overlooking the azure waters of the ocean, it's a haven for those seeking ultimate relaxation and privacy. The spacious interiors feature elegant furnishings, vaulted ceilings, and sweeping views of the sea from nearly every room. Step outside to your own private oasis, complete with a infinity pool, sundeck, and direct access to the beach. Whether you're lounging by the pool, enjoying al fresco dining on the terrace, or unwinding in the lavish master suite, every moment here is a testament to coastal living at its finest.",
+        "price": 7500000,
+        "status": "rent",
+        "area": 6000,
+        "location": "Miami, Florida",
+        "facilities": [
+            "infinity pool",
+            "private beach access",
+            "tropical gardens"
+        ]
+    },
+    {
+        "id": "5",
+        "estate_title": "Tropical Haven Resort & Spa",
+        "segment_name": "Resort",
+        "image": "https://i.ibb.co/cvM7t87/resort.jpg",
+        "description": "Situated amidst lush tropical landscapes, this luxury resort offers an unparalleled escape from the ordinary. Immerse yourself in the serenity of nature while indulging in world-class amenities and personalized service. Whether you're lounging by the infinity pool, rejuvenating at the spa, or savoring gourmet cuisine at the onsite restaurant, every moment is designed to pamper and delight. The resort features elegantly appointed villas and suites, each offering spacious living areas, private balconies, and breathtaking views of the surrounding scenery. With a host of recreational activities and cultural experiences at your fingertips, this is more than a destination—it's a journey into pure bliss.",
+        "price": 10000000,
+        "status": "rent",
+        "area": 8000,
+        "location": "Tropical Oasis, Mate Island",
+        "facilities": [
+            "infinity pool",
+            "spa",
+            "restaurant",
+            "recreational activities"
+        ]
+    },
+    {
+        "id": "6",
+        "estate_title": "Isle of Tranquility Retreat",
+        "segment_name": "Private Island",
+        "image": "https://i.ibb.co/Dk6Qnd2/private-Island.jpg",
+        "description": "Escape to your own private paradise on this secluded island retreat. Surrounded by crystal-clear waters and pristine beaches, this exclusive enclave offers the ultimate in luxury and seclusion. The main residence features spacious living areas, gourmet kitchen, and opulent bedrooms—all with panoramic views of the ocean. Outside, lush tropical gardens, infinity pool, and multiple outdoor living spaces create an idyllic setting for relaxation and entertainment. With amenities such as a private marina, helipad, and dedicated staff, every need is catered to with meticulous attention to detail. Whether you're seeking a serene sanctuary or an unforgettable venue for gatherings with family and friends, this private island paradise is truly a world unto itself.",
+        "price": 20000000,
+        "status": "sale",
+        "area": 10000,
+        "location": "Pacific Ocean",
+        "facilities": [
+            "private beach",
+            "infinity pool",
+            "private marina",
+            "helipad"
+        ]
+    }
+]
